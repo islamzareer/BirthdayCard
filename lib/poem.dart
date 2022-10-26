@@ -56,7 +56,7 @@ class Poem extends StatelessWidget {
                           child: Text(
                             "I hope Your Birthday is as sweet as the cake. And the year to follow is filled with as much joy as you bring your friends",
                             style: TextStyle(
-                                fontSize: 20,
+                                fontSize: 15,
                                 fontWeight: FontWeight.bold,
                                 fontFamily: 'OleoScript'),
                           ),
